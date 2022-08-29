@@ -1,0 +1,1 @@
+/usr/local/etc/haproxy/ssl/default.pem
